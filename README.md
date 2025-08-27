@@ -1,5 +1,5 @@
 # @Antiscam Legal Docs
-快門手反詐騙 — 法律文件庫
+快門手反詐騙回報中心 — 法律文件庫
 
 本倉庫用於公開與整理「快門手反詐騙回報中心」相關的法律文件，包括個人資料授權聲明與免責聲明，讓使用者與合作單位能清楚了解資料使用範圍與權責。
 
@@ -10,12 +10,12 @@ This repository contains official legal documents for **快門手反詐騙回報
 ## 📂 文件內容 / Documents
 
 ### 1. 個資聲明 (Privacy Policy & Personal Data Authorization)
-- **中文版**：[Privacy-policy.zh-TW.md](Privacy-policy.zh-TW.md)
-- **English**：[Privacy-policy.en.md](Privacy-policy.en.md)
+- **中文版**：[privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
+- **English**：[privacy-policy.en.md](privacy-policy.en.md)
 
 ### 2. 免責聲明 (Disclaimer)
-- **中文版**：[Disclaimer.zh-TW.md](Disclaimer.zh-TW.md)
-- **English**：[Disclaimer.en.md](Disclaimer.en.md)
+- **中文版**：[disclaimer.zh-TW.md](disclaimer.zh-TW.md)
+- **English**：[disclaimer.en.md](disclaimer.en.md)
 
 ---
 
